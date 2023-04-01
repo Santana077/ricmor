@@ -1,0 +1,15 @@
+.App {
+   background-image: url('./public/images/fondo_electronica.jpg');
+   text-align: center;
+   color: brown;
+   
+}
+
+.mydiv {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f2f2;
+  
+  color:forestgreen
+}

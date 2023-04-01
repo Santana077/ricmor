@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    margin-top: 20px ;
+}
+
+.container input{
+    border-radius: 5px;
+    height: 20px;
+}
+
+.container button{
+    border-radius: 5px;
+    height: 20px;
+    background-color: darkslateblue;
+    color:wheat;
+    padding: 0 1 0 7px;
+    font-size: 15px;
+    border: 1px;
+}
